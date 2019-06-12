@@ -22,7 +22,7 @@
 #### 2.如何使用
 
 下载 SSR 客户端
-[链接地址]([https://whaleblue.zendesk.com/hc/zh-tw/articles/360004851691-%E8%80%81%E7%94%A8%E6%88%B7%E6%B5%81%E9%87%8F%E5%85%8D%E8%B2%BB%E5%8D%87%E7%B4%9A](https://whaleblue.zendesk.com/hc/zh-tw/articles/360004851691-%E8%80%81%E7%94%A8%E6%88%B7%E6%B5%81%E9%87%8F%E5%85%8D%E8%B2%BB%E5%8D%87%E7%B4%9A))
+[链接地址](https://whaleblue.zendesk.com/hc/zh-tw/articles/360004851691-%E8%80%81%E7%94%A8%E6%88%B7%E6%B5%81%E9%87%8F%E5%85%8D%E8%B2%BB%E5%8D%87%E7%B4%9A)
 
 **根据需要下载相应的客户端**
 ![](https://raw.githubusercontent.com/itgoyo/PicGoRes/master/img/20190612084012.png)
